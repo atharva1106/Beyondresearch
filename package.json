@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "netlify dev",
     "build": "echo "No build step"",
-    "start": "netlify dev"
+    "start": "netlify dev",
   },
   "dependencies": {
     "exceljs": "^4.3.0",
